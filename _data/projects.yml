@@ -12,7 +12,7 @@
 
 - name: Tic Tac Toe
   id: p3
-  img_src: /assets/img/tictactoe.jpeg
+  img_src: /assets/img/tictactoe.png
   description_less: Simple game containing X's and O's
   description_more: >
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
