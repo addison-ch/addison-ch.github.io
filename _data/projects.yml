@@ -17,7 +17,7 @@
   description_more: >
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
   action_buttons: >
-    <a href="/tictactoe/index" target="/tictactoe/index" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp View Project</a>
+    <a href="/tictactoe" target="/tictactoe" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp View Project</a>
     <a href="https://github.com/addison-ch/tic-tac-toe" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
   
   tags: [javascript]
