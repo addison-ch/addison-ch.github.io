@@ -33,3 +33,14 @@
     <a href="https://github.com/addison-ch/chess-game" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
   
   tags: [java]
+
+- name: Doug Ford Filter
+  id: p4
+  img_src: 
+  description_less: Chrome extension that replaces instances of "Doug Ford" with nick-names sourced from Reddit
+  description_more: >
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+  action_buttons: >
+    <a href="https://github.com/addison-ch/doug-ford-filter" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
+  
+  tags: [javascript]
