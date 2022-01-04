@@ -21,3 +21,15 @@
     <a href="https://github.com/addison-ch/tic-tac-toe" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
   
   tags: [javascript]
+
+
+- name: Chess
+  id: p3
+  img_src: /assets/img/chess.png
+  description_less: Command-line implementation of Western chess
+  description_more: >
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+  action_buttons: >
+    <a href="https://github.com/addison-ch/chess-game" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
+  
+  tags: [java]
