@@ -7,11 +7,9 @@ description: A minimal yet feature-rich Jekyll theme made for personal websites 
 sitemap:
   priority: 1.0
 ---
-<p class="describe-text">A minimal yet feature-rich Jekyll theme made for personal websites and blogs.</p>
+<p class="describe-text">Welcome 👋.</p>
 <br>
-This is the index page, describe yourself in few sentences here. Perhaps talk about what you do for living and what you do in your free time. Maybe even leave an [email@address.com](#) or a link to your [resume](#).
-
-Pudhina Fresh is free and open-source. Checkout [Pudhina Fresh](https://github.com/ritijjain/pudhina-fresh).
+I am a computer science student at the University of Waterloo seeking an internship for the Summer 2022 season. I enjoy programming, swimming, and watching anime in my free time. You can get a sense of my tehcnical skills by viewing the projects I have worked on. Feel free to [contact me](mailto:addison.chen@uwaterloo.ca) if you have any questions!
 
 <br>
 <br>
