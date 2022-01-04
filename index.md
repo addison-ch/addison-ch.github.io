@@ -3,7 +3,7 @@ layout: page
 full_logo: true
 title: 
 subtitle: 
-description: A minimal yet feature-rich Jekyll theme made for personal websites and blogs.
+description: Landing page
 sitemap:
   priority: 1.0
 ---
@@ -11,10 +11,12 @@ sitemap:
 <br>
 I am a computer science student at the University of Waterloo seeking an internship for the Summer 2022 season. I enjoy programming, swimming, and watching anime in my free time. You can get a sense of my tehcnical skills by viewing the projects I have worked on. Feel free to [contact me](mailto:addison.chen@uwaterloo.ca) if you have any questions!
 
+
+
 <br>
 <br>
 <br>
 <br>
 <br>
 <br>
-<br>
+
