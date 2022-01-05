@@ -3,7 +3,7 @@
   img_src: /assets/img/barparks.png # Optional image
   description_less: Web app to crowdsource outdoor exercise locations. # Description shown at all times, text only
   description_more: > # Description shown only when the project card is expanded, HTML only
-    <p>This part is only seen when you click on the project card.</p> 
+    <p>More details can be found on the Github repository.</p> 
   action_buttons: > # Action buttons for project, HTML only
     <a href="#" target="https://github.com/addison-ch/BarParks" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
 
@@ -15,7 +15,7 @@
   img_src: /assets/img/tictactoe.png
   description_less: Simple game containing X's and O's
   description_more: >
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    <p>Live demo and source code below.</p>
   action_buttons: >
     <a href="/tictactoe" target="/tictactoe" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp Try Project</a>
     <a href="https://github.com/addison-ch/tic-tac-toe" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
@@ -28,7 +28,7 @@
   img_src: /assets/img/chess.png
   description_less: Command-line implementation of Western chess
   description_more: >
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    <p>More details can be found on the Github repository.</p>
   action_buttons: >
     <a href="https://github.com/addison-ch/chess-game" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
   
@@ -39,7 +39,7 @@
   img_src: 
   description_less: Chrome extension that replaces instances of "Doug Ford" with nick-names sourced from Reddit
   description_more: >
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    <p>Note: most of the nicknames will be derogatory...</p>
   action_buttons: >
     <a href="https://github.com/addison-ch/doug-ford-filter" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
   
