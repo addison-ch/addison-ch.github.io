@@ -18,7 +18,7 @@
     <p>Live demo and source code below.</p>
   action_buttons: >
     <a href="/tictactoe" target="/tictactoe" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp Try Project</a>
-    <a href="https://github.com/addison-ch/tic-tac-toe" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
+    
   
   tags: [javascript]
 
@@ -45,13 +45,13 @@
   
   tags: [javascript]
 
-- name: Activity Tracker
+- name: plutobook
   id: p5
   img_src: /assets/img/tracker.png
-  description_less: Simple React/Redux activity tracker
+  description_less: Browser-based interactive code editing notebook
   description_more: >
     <p>More details can be found on the repository.</p>
   action_buttons: >
-    <a href="https://github.com/addison-ch/activity-tracker" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
+    <a href="https://github.com/addison-ch/plutobook" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
   
-  tags: [typescript, react, redux]
+  tags: [typescript, react, redux, node]

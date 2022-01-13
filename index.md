@@ -7,9 +7,24 @@ description: Landing page
 sitemap:
   priority: 1.0
 ---
-<p class="describe-text">Welcome 👋.</p>
+<h2 class="">🙋‍♂️ Welcome, and thank you for stopping by! </h2>
 <br>
-I am a computer science student at the University of Waterloo seeking an internship for the Summer 2022 season. I enjoy programming, swimming, and watching anime in my free time. You can get a sense of my tehcnical skills by viewing the projects I have worked on. Feel free to [contact me](mailto:addison.chen@uwaterloo.ca) if you have any questions!
+
+### I am a **computer science** student at the **University of Waterloo** seeking an internship for the Summer 2022 season
+
+
+#### I am a software developer experienced with TypeScript/JavaScript, Python, and Elixir
+
+
+#### Some of my interests include:
+- Swimming 🏊‍♀️
+- Bouldering 🧗‍♂️
+- League of Legends 🍄
+- Historical movies 🧙‍♂️
+- Penguins 🐧
+- Hackathons 👩‍💻
+
+#### Feel free to [contact me](mailto:addison.chen@uwaterloo.ca) if you have any questions!
 
 
 
