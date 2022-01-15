@@ -23,6 +23,7 @@ sitemap:
 - Historical movies 🧙‍♂️
 - Penguins 🐧
 - Hackathons 👩‍💻
+- The Toronto Raptors 🦖
 
 #### Feel free to [contact me](mailto:addison.chen@uwaterloo.ca) if you have any questions!
 
