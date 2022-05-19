@@ -19,9 +19,12 @@ sitemap:
 <a href="https://github.com/addison-ch/plutobook" target="_blank"> plutobook </a> 🐱‍🚀, <a href="https://github.com/addison-ch/FBI" target="_blank"> FBI </a> 🕵️‍♂️, and <a href="https://github.com/addison-ch/Ditto" target="_blank"> Ditto </a> 🧙‍♂️
 More projects are highlighted on <a href="/projects" target="_blank">the projects page</a>
 #### Some of my experiences include:
-##### A co-op term as a Full-Stack Dev at the WSIB Innovation Lab!
-- Worked with Flutter/Dart and built really cool things
-- Worked on NODE Apis
+- A co-op work term as a Full-Stack Developer at the WSIB Innovation Lab. 
+  - Researching, designing and developing solutions for the future state of workers compensation in Ontario! 
+  - Built really cool stuff using Flutter/Dart, designed whole lotta API endpoints using Express/Node, and made a whole lot of documentation and architecture diagrams.
+
+- I am apart of Waterloo Formula Electric -- a student engineerning design team.
+  - Doing firmware development for our 100% electric powered racecar!
 
 
 ##### Working as a firmware developer for Waterloo Formula Electric!
