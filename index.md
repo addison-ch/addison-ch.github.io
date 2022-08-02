@@ -10,28 +10,24 @@ sitemap:
 <!-- <h2 class="">🙋‍♂️ Welcome, and thank you for stopping by! </h2> -->
 <br>
 <img src="https://c.tenor.com/-z2KfO5zAckAAAAC/hello-there-baby-yoda.gif">
-### I am a **computer science** student at the **University of Waterloo** seeking an internship for the Summer 2023 term  💻
+### I am a **computer science** student at the **University of Waterloo** trying to learn as much as I can about software engineering! 💻
 
 
-#### I am a software developer experienced with front-end, back-end, and even firmware development!
+#### I am experienced with front-end, back-end, and a bit of firmware development!
 
 #### My most recent projects are:
 <a href="https://github.com/addison-ch/plutobook" target="_blank"> plutobook </a> 🐱‍🚀, <a href="https://github.com/addison-ch/FBI" target="_blank"> FBI </a> 🕵️‍♂️, and <a href="https://github.com/addison-ch/Ditto" target="_blank"> Ditto </a> 🧙‍♂️
 More projects are highlighted on <a href="/projects" target="_blank">the projects page</a>
 #### Some of my experiences include:
 - A co-op work term as a Full-Stack Developer at the WSIB Innovation Lab. 
-  - Researching, designing and developing solutions for the future state of workers compensation in Ontario! 
-  - Built really cool stuff using Flutter/Dart, designed whole lotta API endpoints using Express/Node, and made a whole lot of documentation and architecture diagrams.
+  - Researched, designed and developed solutions for the future state of workers compensation in Ontario! 
+  - Built out a really cool app using Flutter/Dart, designed RESTful API endpoints with Python/FastAPI, and wrote a whole lot of documentation and unit tests.
 
 - I am apart of Waterloo Formula Electric -- a student engineerning design team.
   - Doing firmware development for our 100% electric powered racecar!
 
 
-##### Working as a firmware developer for Waterloo Formula Electric!
-
-
-#### Feel free to [contact me](mailto:addison.chen@uwaterloo.ca) if you have any questions!
-
+#### Feel free to [contact me](mailto:addison.chen@uwaterloo.ca) about anything!
 
 <br>
 <br>
