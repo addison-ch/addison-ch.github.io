@@ -15,9 +15,10 @@ sitemap:
 
 #### I am experienced with front-end, back-end, and a bit of firmware development!
 
-#### My most recent projects are:
+#### Some recent projects of mine are:
 <a href="https://github.com/addison-ch/plutobook" target="_blank"> plutobook </a> 🐱‍🚀, <a href="https://github.com/addison-ch/FBI" target="_blank"> FBI </a> 🕵️‍♂️, and <a href="https://github.com/addison-ch/Ditto" target="_blank"> Ditto </a> 🧙‍♂️
-More projects are highlighted on <a href="/projects" target="_blank">the projects page</a>
+More projects are highlighted at <a href="/projects" target="_blank">the projects page</a>
+
 #### Some of my experiences include:
 - A co-op work term as a Full-Stack Developer at the WSIB Innovation Lab. 
   - Researched, designed and developed solutions for the future state of workers compensation in Ontario! 
